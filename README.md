@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=45FjeTSla3o
 3. Setelah aplikasi jadi buat container images
 4. Push container images ke dockerhub
 5. Running aplikasi container ke kubernetes atau nomad
+6. Bissmillah
